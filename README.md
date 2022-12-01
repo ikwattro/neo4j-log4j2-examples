@@ -13,3 +13,4 @@ This repository contains example of log4j configs to filter query logs based on 
 - filter based on source
 - filter based on transaction event type
 - filter based on transaction metadata
+- using JsonTemplateLayout
